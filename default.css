@@ -21,7 +21,7 @@ body {
     font-weight: bold;
     
     
-    --middle-width: min(70vw,600px);
+    --middle-width: min(80vw,600px);
     --side-width: calc((100vw - var(--middle-width) - 20px)/2);
     --padding: min(20px, calc(var(--side-width)*0.3));
     
